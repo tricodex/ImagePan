@@ -54,7 +54,7 @@ python create_panning_video.py --multiple path/to/image1.jpg path/to/image2.jpg 
 python create_panning_video.py --directory path/to/images --output path/to/output
 ```
 
-#### Ratio Sizes
+#### Ratio Sizes of Bounce
 
 | Aspect Ratio | Size 1   | Size 2   | Size 3   | Size 4   | Size 5   | Size 6   | Size 7   | Size 8   | Size 9   | Size 10  | Size 11  | Size 12  |
 |--------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
