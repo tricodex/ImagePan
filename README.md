@@ -99,7 +99,7 @@ python imagepan_bounce.py --multiple path/to/image1.jpg path/to/image2.jpg --out
 python imagepan_bounce.py --directory path/to/images --output path/to/output --frame_width 720 --frame_height 1280
 ```
 
-## Common Pixel Sizes for Image Ratios
+## Pixel Sizes for Image Ratios
 
 | Aspect Ratio | Size 1   | Size 2   | Size 3   | Size 4   | Size 5   | Size 6   | Size 7   | Size 8   | Size 9   | Size 10  | Size 11  | Size 12  |
 |--------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
